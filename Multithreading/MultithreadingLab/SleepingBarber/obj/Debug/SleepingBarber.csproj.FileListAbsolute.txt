@@ -1,0 +1,7 @@
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\SleepingBarber\bin\Debug\SleepingBarber.exe.config
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\SleepingBarber\bin\Debug\SleepingBarber.exe
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\SleepingBarber\bin\Debug\SleepingBarber.pdb
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\SleepingBarber\obj\Debug\SleepingBarber.csprojAssemblyReference.cache
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\SleepingBarber\obj\Debug\SleepingBarber.csproj.CoreCompileInputs.cache
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\SleepingBarber\obj\Debug\SleepingBarber.exe
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\SleepingBarber\obj\Debug\SleepingBarber.pdb

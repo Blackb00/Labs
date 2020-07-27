@@ -1,0 +1,7 @@
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\HoneyPot\bin\Debug\HotPot.exe.config
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\HoneyPot\bin\Debug\HotPot.exe
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\HoneyPot\bin\Debug\HotPot.pdb
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\HoneyPot\obj\Debug\HoneyPot.csprojAssemblyReference.cache
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\HoneyPot\obj\Debug\HoneyPot.csproj.CoreCompileInputs.cache
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\HoneyPot\obj\Debug\HotPot.exe
+D:\Programming\VeeamAcademy\Labs\Multithreading\MultithreadingLab\HoneyPot\obj\Debug\HotPot.pdb
